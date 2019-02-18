@@ -1,2 +1,2 @@
 # personal-website
-my personal website for
+my personal website for my own marketing
